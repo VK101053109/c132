@@ -1,0 +1,18 @@
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+}
+.backb{
+    text-align: right;
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+#status{
+    text-align: center;
+}
+body {
+    background-color: aqua;
+}
